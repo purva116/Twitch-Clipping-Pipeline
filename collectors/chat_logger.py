@@ -6,7 +6,7 @@ from datetime import datetime
 
 HOST = "irc.chat.twitch.tv"
 PORT = 6667
-NICK = "justinfan12345"   # anonymous read-only login
+NICK = "testingbot1210"
 
 
 def connect(channel):
